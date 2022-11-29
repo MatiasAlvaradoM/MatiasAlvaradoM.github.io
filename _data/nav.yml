@@ -1,0 +1,32 @@
+- title: "Acerca de mí"
+  subcategories:
+    - subtitle: "Curriculum"
+      subhref: "/acercaDeMi/"
+    - subtitle: "Nuevos Colaboradores"
+      subhref: "/nuevoColab/"
+  
+
+
+- title: "Investigación"
+  subcategories:
+    - subtitle: "Publicaciones"
+      subhref: "/publicaciones/"
+    - subtitle: "Conferencias"
+      subhref: "/conferencias/"
+    - subtitle: "Colaboradores"
+      subhref: "/colaboradores/"
+    - subtitle: "Proyectos"
+      subhref: "/proyectos/"
+
+- title: "Docencia"
+  subcategories:
+    - subtitle: "Cursos"
+      subhref: "/docencia/"
+
+- title: "Otros"
+  href: "/information"
+  subcategories:
+    - subtitle: "Posts"
+      subhref: "/posts"
+    - subtitle: "Organización de eventos"
+      subhref: "/organizacionEventos/"

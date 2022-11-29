@@ -18,17 +18,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dr. Matías Alvarado Mentado
+title: Dr. Matías Alvarado
 email: matias@cs.cinvestav.mx
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
+  Investigador CINVESTAV 3C
+
+  Miembro de la Academia Mexicana de Ciencias
+
+  Miembro Fundador de la Academia Mexicana de Computación AMEXCOMP
+biography:
+  Professor Matías Alvarado Mentado has a Bachelor degree in
+  mathematics from the Universidad Nacional Autónoma de México
+  (UNAM). Then, he studied in Universidad Politécnica de Catalunya
+  where he obtained a PhD in Artifitial Inteligence. Upon completition
+  of his studies he worked for various academic institutions including 
+  CINVESTAV and Mexican Petroleum Institute. 
+
+  He is currently working on strategic reasoning in sport, board games 
+  and cancer metastasis vs immune system; Ising model for algorithms 
+  and simulation for cancer metastasis and the game of Go; Nash 
+  equilibrium for strategies choice in baseball, American football 
+  and soccer; and	Emotional response regulation.
+
+languages: ['es']
+#description1: 
+#  Miembro Fundador de la Academia Mexicana de Computación AMEXCOMP
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+#twitter_username: jekyllrb
+github_username:  MatiasAlvaradoM
+twitter_username: josematiasal
+port: 4000
 # Build settings
 theme: minima
 plugins:
